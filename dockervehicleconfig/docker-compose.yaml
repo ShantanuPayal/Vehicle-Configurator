@@ -1,0 +1,18 @@
+services:
+  server:
+    build: .
+    restart: always
+    ports:
+      - 8080:8080
+    depends_on:
+      - mysqldb
+  mysqldb:
+    image: "mysql:latest"
+    restart: always
+    ports:
+      - 3308:3306
+    environment:
+      MYSQL_DATABASE: vehicleconfig
+      MYSQL_USER: shantanu
+      MYSQL_PASSWORD: shantanu1
+      MYSQL_ROOT_PASSWORD: shantanu1
