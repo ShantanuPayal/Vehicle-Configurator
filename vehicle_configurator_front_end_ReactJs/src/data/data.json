@@ -1,0 +1,47 @@
+{
+  "Header": {
+    "title": "WELCOME TO VEHICLE CONFIGURATOR",
+    "paragraph": "Your Fleet, Our Expertise, Business Elevated."
+  },
+  "Gallery": [
+    {
+      "title": "Projector Headlamps",
+      "largeImage": "images/portfolio/01-large.jpg",
+      "smallImage": "images/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Engines",
+      "largeImage": "images/portfolio/02-large.jpg",
+      "smallImage": "images/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Smart Gauges and Metres",
+      "largeImage": "images/portfolio/03-large.jpg",
+      "smallImage": "images/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Alloy Wheels",
+      "largeImage": "images/portfolio/04-large.jpg",
+      "smallImage": "images/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Modifiable Interiors",
+      "largeImage": "images/portfolio/05-large.jpg",
+      "smallImage": "images/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Aerodynamics",
+      "largeImage": "images/portfolio/06-large.jpg",
+      "smallImage": "images/portfolio/06-small.jpg"
+    }
+  ],
+
+  "Contact": {
+    "address": "VITA Juhu, Mumbai",
+    "phone": "+91 7208578550",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  }
+}

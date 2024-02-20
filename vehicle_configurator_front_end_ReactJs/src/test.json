@@ -1,0 +1,99 @@
+{
+    "tables": [
+      {
+        "name": "segments",
+        "columns": [
+          {"name": "id", "type": "int", "primary_key": true},
+          {"name": "created_at", "type": "timestamp", "not_null": true, "default": "CURRENT_TIMESTAMP"},
+          {"name": "seg_name", "type": "varchar(255)", "not_null": true},
+          {"name": "updated_at", "type": "timestamp", "not_null": true, "default": "CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP"}
+        ]
+      },
+      {
+        "name": "manufacturers",
+        "columns": [
+          {"name": "id", "type": "int", "primary_key": true},
+          {"name": "created_at", "type": "timestamp", "not_null": true, "default": "CURRENT_TIMESTAMP"},
+          {"name": "manu_name", "type": "varchar(255)", "not_null": true},
+          {"name": "updated_at", "type": "timestamp", "not_null": true, "default": "CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP"},
+          {"name": "seg_id", "type": "int", "not_null": true}
+        ],
+        "foreign_keys": [
+          {"column": "seg_id", "references": {"table": "segments", "column": "id"}}
+        ]
+      },
+      {
+        "name": "models",
+        "columns": [
+          {"name": "id", "type": "int", "primary_key": true},
+          {"name": "created_at", "type": "timestamp", "not_null": true, "default": "CURRENT_TIMESTAMP"},
+          {"name": "image_path", "type": "varchar(255)", "not_null": true},
+          {"name": "min_qty", "type": "int", "default": null},
+          {"name": "mod_name", "type": "varchar(255)", "not_null": true},
+          {"name": "price", "type": "int", "not_null": true},
+          {"name": "safety_rating", "type": "int", "default": 5},
+          {"name": "updated_at", "type": "timestamp", "not_null": true, "default": "CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP"},
+          {"name": "manu_id", "type": "int", "not_null": true},
+          {"name": "seg_id", "type": "int", "not_null": true}
+        ],
+        "foreign_keys": [
+          {"column": "manu_id", "references": {"table": "manufacturers", "column": "id"}},
+          {"column": "seg_id", "references": {"table": "segments", "column": "id"}}
+        ]
+      },
+      {
+        "name": "alternate_components",
+        "columns": [
+          {"name": "id", "type": "int", "primary_key": true},
+          {"name": "created_at", "type": "timestamp", "not_null": true, "default": "CURRENT_TIMESTAMP"},
+          {"name": "delta_price", "type": "double", "not_null": true},
+          {"name": "updated_at", "type": "timestamp", "not_null": true, "default": "CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP"},
+          {"name": "comp_id", "type": "int", "not_null": true},
+          {"name": "alt_comp_id", "type": "int", "not_null": true},
+          {"name": "mod_id", "type": "int", "not_null": true}
+        ],
+        "foreign_keys": [
+          {"column": "comp_id", "references": {"table": "components", "column": "id"}},
+          {"column": "alt_comp_id", "references": {"table": "components", "column": "id"}},
+          {"column": "mod_id", "references": {"table": "models", "column": "id"}}
+        ]
+      },
+      {
+        "name": "users",
+        "columns": [
+          {"name": "id", "type": "int", "primary_key": true},
+          {"name": "address_line1", "type": "varchar(255)", "default": null},
+          {"name": "address_line2", "type": "varchar(255)", "default": null},
+          {"name": "city", "type": "varchar(255)", "default": null},
+          {"name": "company_name", "type": "varchar(255)", "default": null},
+          {"name": "email", "type": "varchar(50)", "default": null},
+          {"name": "gst_number", "type": "varchar(255)", "default": null},
+          {"name": "password", "type": "varchar(120)", "default": null},
+          {"name": "pin_code", "type": "varchar(255)", "default": null},
+          {"name": "state", "type": "varchar(255)", "default": null},
+          {"name": "telephone", "type": "varchar(255)", "default": null},
+          {"name": "username", "type": "varchar(20)", "default": null}
+        ],
+        "unique_keys": [
+          {"columns": ["username"]},
+          {"columns": ["email"]}
+        ]
+      },
+      {
+        "name": "vehicles",
+        "columns": [
+          {"name": "id", "type": "int", "primary_key": true},
+          {"name": "comp_type", "type": "enum('C','E','I','S')", "not_null": true},
+          {"name": "created_at", "type": "timestamp", "not_null": true, "default": "CURRENT_TIMESTAMP"},
+          {"name": "is_configurable", "type": "enum('N','Y')", "not_null": true},
+          {"name": "updated_at", "type": "timestamp", "not_null": true, "default": "CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP"},
+          {"name": "comp_id", "type": "int", "not_null": true},
+          {"name": "mod_id", "type": "int", "not_null": true}
+        ],
+        "foreign_keys": [
+          {"column": "comp_id", "references": {"table": "components", "column": "id"}},
+          {"column": "mod_id", "references": {"table": "models", "column": "id"}}
+        ]
+      }
+    ]
+  }

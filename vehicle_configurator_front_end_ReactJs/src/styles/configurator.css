@@ -1,0 +1,96 @@
+#configurator {
+  padding: 50px 0;
+}
+
+.section-title {
+  margin-bottom: 30px;
+}
+
+.custom-select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+  font-size: 16px;
+  transition: border-color 0.3s ease;
+}
+
+.custom-select:focus {
+  outline: none;
+  border-color: #007bff;
+}
+
+.disabled .custom-select {
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.model-details-container {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.model-details-container img {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.components-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+
+/* Styling for the components grid */
+.card-container {
+  border: 1px solid #ddd; /* Add border */
+  border-radius: 10px; /* Add border radius */
+  padding: 20px; /* Add padding */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add box shadow */
+  background-color: #f9f9f9; /* Add background color */
+  transition: transform 0.3s ease, width 0.3s ease; /* Add transition for smooth effect */
+}
+
+/* Add hover effect to expand the card on hover */
+.card-container:hover {
+  transform: scale(1.05); /* Scale up the card */
+  width: calc(100% + 75px); /* Increase width by 20px */
+}
+
+@media (max-width: 768px) {
+  .components-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.col-md-3 {
+  flex: 0 0 25%;
+  max-width: 25%;
+}
+
+.col-md-9 {
+  flex: 0 0 75%;
+  max-width: 75%;
+}
+
+.row.models-section {
+  margin-top: 20px; /* Added margin-top to move the models section down by 20px */
+}
+
+.component-list ul {
+  list-style-type: none; /* Remove default bullet points */
+}
+
+.component-list li {
+  margin-bottom: 10px; /* Add spacing between bullet points */
+}
+
+.model-buttons{
+  margin-top: 20px;
+}
