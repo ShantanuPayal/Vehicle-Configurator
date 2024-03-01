@@ -1,0 +1,21 @@
+/* AboutUs.css */
+.about-us-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 20px;
+  }
+  
+  .about-us-content {
+    flex: 1;
+    max-width: 60%;
+  }
+  
+  .about-us-image {
+    flex: 1;
+    max-width: 40%;
+    margin-left: 20px;
+  }
+  
+  /* Add any additional styling as needed */
+  

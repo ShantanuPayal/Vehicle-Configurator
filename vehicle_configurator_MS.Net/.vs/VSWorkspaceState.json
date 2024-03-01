@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Models",
+    "\\Properties",
+    "\\Repositories",
+    "\\Repository",
+    "\\Services",
+    "\\Services\\AlternateComponents",
+    "\\Services\\Segments",
+    "\\Services\\UserRegistration"
+  ],
+  "SelectedNode": "\\Repositories",
+  "PreviewInSolutionExplorer": false
+}

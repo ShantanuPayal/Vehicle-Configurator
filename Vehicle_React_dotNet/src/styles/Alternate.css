@@ -1,0 +1,36 @@
+.components-list {
+  font-family: Arial, sans-serif;
+}
+
+.component-item {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.component-item input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+.component-name {
+  flex: 1;
+}
+
+.alternate-select {
+  margin-left: 10px;
+}
+
+.generate-invoice-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.generate-invoice-btn:hover {
+  background-color: #0056b3;
+}

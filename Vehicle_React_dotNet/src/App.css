@@ -1,0 +1,29 @@
+@media screen and (max-width: 400px) {
+  #configurator {
+    padding: 20px;
+    width: 111%;
+  }
+  #configurator,
+  #services,
+  #Register,
+  #login,
+  #contact,
+  #footer {
+    width: 111%;
+  }
+
+  #portfolio {
+    width: 110%;
+  }
+}
+#contact-us-container{
+  height:95%;
+  padding-top: 13rem;
+}
+#configurator{
+  padding-top: 20em;
+}
+
+.overlay-panel h1{
+  color:white;
+}

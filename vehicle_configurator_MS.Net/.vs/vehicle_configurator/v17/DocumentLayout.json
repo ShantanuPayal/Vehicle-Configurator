@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Vehicle Configurator\\vehicle_configurator_MS.Net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|f:\\vehicle configurator\\vehicle_configurator_ms.net\\services\\alternatecomponents\\alternatecomponentrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2673F1-75E5-4A52-86A6-8E28B5405837}|vehicle_configurator.csproj|solutionrelative:services\\alternatecomponents\\alternatecomponentrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlternateComponentRepositoryImpl.cs",
+              "DocumentMoniker": "F:\\Vehicle Configurator\\vehicle_configurator_MS.Net\\Services\\AlternateComponents\\AlternateComponentRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Services\\AlternateComponents\\AlternateComponentRepositoryImpl.cs",
+              "ToolTip": "F:\\Vehicle Configurator\\vehicle_configurator_MS.Net\\Services\\AlternateComponents\\AlternateComponentRepositoryImpl.cs",
+              "RelativeToolTip": "Services\\AlternateComponents\\AlternateComponentRepositoryImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T10:06:40.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

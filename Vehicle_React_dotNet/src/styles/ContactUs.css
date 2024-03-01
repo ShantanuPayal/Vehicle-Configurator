@@ -1,0 +1,44 @@
+/* ContactUs.css */
+.contact-us-container {
+    text-align: center; /* Center align content */
+    max-width: 600px; /* Set max width for content */
+    margin: 0 auto; /* Center horizontally */
+    padding: 20px; /* Add padding around content */
+}
+
+.contact-us-container h2 {
+    color: #333; /* Set heading color */
+}
+
+.contact-us-container p {
+    color: #666; /* Set paragraph color */
+    margin-bottom: 10px; /* Add bottom margin to paragraphs */
+}
+
+.contact-us-container address {
+    font-style: normal; /* Remove italic style for address */
+    margin-bottom: 20px; /* Add bottom margin to address */
+}
+
+.contact-us-container hr {
+    border: 1px solid #ccc; /* Add border below address */
+    margin: 20px 0; /* Add margin above and below HR */
+}
+
+.contact-us-container h3 {
+    color: #333; /* Set heading color */
+}
+
+.contact-us-container button {
+    padding: 10px 20px; /* Add padding to button */
+    background-color: #007bff; /* Set button background color */
+    color: #fff; /* Set button text color */
+    border: none; /* Remove button border */
+    border-radius: 5px; /* Add border radius to button */
+    cursor: pointer; /* Set cursor to pointer on hover */
+    transition: background-color 0.3s ease; /* Add transition effect */
+}
+
+.contact-us-container button:hover {
+    background-color: #4878ac; /* Change button background color on hover */
+}

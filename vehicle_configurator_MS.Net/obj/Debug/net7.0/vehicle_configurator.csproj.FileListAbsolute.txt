@@ -1,0 +1,1469 @@
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\appsettings.Development.json
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\appsettings.json
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\vehicle_configurator.exe
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\vehicle_configurator.deps.json
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\vehicle_configurator.runtimeconfig.json
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\vehicle_configurator.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\vehicle_configurator.pdb
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Azure.Core.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Azure.Identity.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Humanizer.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\MessagePack.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\MessagePack.Annotations.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.Build.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\NuGet.Common.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\System.CodeDom.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\System.Memory.Data.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\practice dot net\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.csproj.AssemblyReference.cache
+D:\practice dot net\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice dot net\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.AssemblyInfoInputs.cache
+D:\practice dot net\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.AssemblyInfo.cs
+D:\practice dot net\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.csproj.CoreCompileInputs.cache
+D:\practice dot net\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.MvcApplicationPartsAssemblyInfo.cs
+D:\practice dot net\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.MvcApplicationPartsAssemblyInfo.cache
+D:\practice dot net\vehicle_configurator\obj\Debug\net7.0\staticwebassets\msbuild.vehicle_configurator.Microsoft.AspNetCore.StaticWebAssets.props
+D:\practice dot net\vehicle_configurator\obj\Debug\net7.0\staticwebassets\msbuild.build.vehicle_configurator.props
+D:\practice dot net\vehicle_configurator\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.vehicle_configurator.props
+D:\practice dot net\vehicle_configurator\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.vehicle_configurator.props
+D:\practice dot net\vehicle_configurator\obj\Debug\net7.0\staticwebassets.pack.json
+D:\practice dot net\vehicle_configurator\obj\Debug\net7.0\staticwebassets.build.json
+D:\practice dot net\vehicle_configurator\obj\Debug\net7.0\staticwebassets.development.json
+D:\practice dot net\vehicle_configurator\obj\Debug\net7.0\scopedcss\bundle\vehicle_configurator.styles.css
+D:\practice dot net\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.csproj.CopyComplete
+D:\practice dot net\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.dll
+D:\practice dot net\vehicle_configurator\obj\Debug\net7.0\refint\vehicle_configurator.dll
+D:\practice dot net\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.pdb
+D:\practice dot net\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.genruntimeconfig.cache
+D:\practice dot net\vehicle_configurator\obj\Debug\net7.0\ref\vehicle_configurator.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\Google.Protobuf.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\MySql.Data.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\ZstdSharp.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+D:\practice dot net\vehicle_configurator\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\obj\Debug\net7.0\refint\vehicle_configurator.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.pdb
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.csproj.AssemblyReference.cache
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.AssemblyInfoInputs.cache
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.AssemblyInfo.cs
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.csproj.CoreCompileInputs.cache
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\appsettings.json
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\vehicle_configurator.exe
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\vehicle_configurator.deps.json
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\vehicle_configurator.runtimeconfig.json
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\vehicle_configurator.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\vehicle_configurator.pdb
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Humanizer.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\MessagePack.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\MessagePack.Annotations.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\obj\Debug\net7.0\staticwebassets\msbuild.vehicle_configurator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\obj\Debug\net7.0\staticwebassets\msbuild.build.vehicle_configurator.props
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.vehicle_configurator.props
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.vehicle_configurator.props
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\obj\Debug\net7.0\scopedcss\bundle\vehicle_configurator.styles.css
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.csproj.CopyComplete
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.genruntimeconfig.cache
+C:\Users\yugan\OneDrive\Documents\PG-DAC\VC\New folder\vehicle_configurator\vehicle_configurator\obj\Debug\net7.0\ref\vehicle_configurator.dll
+F:\vehicle_configurator\bin\Debug\net7.0\appsettings.Development.json
+F:\vehicle_configurator\bin\Debug\net7.0\appsettings.json
+F:\vehicle_configurator\bin\Debug\net7.0\vehicle_configurator.exe
+F:\vehicle_configurator\bin\Debug\net7.0\vehicle_configurator.deps.json
+F:\vehicle_configurator\bin\Debug\net7.0\vehicle_configurator.runtimeconfig.json
+F:\vehicle_configurator\bin\Debug\net7.0\vehicle_configurator.dll
+F:\vehicle_configurator\bin\Debug\net7.0\vehicle_configurator.pdb
+F:\vehicle_configurator\bin\Debug\net7.0\Azure.Core.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Azure.Identity.dll
+F:\vehicle_configurator\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Google.Protobuf.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Humanizer.dll
+F:\vehicle_configurator\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+F:\vehicle_configurator\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+F:\vehicle_configurator\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+F:\vehicle_configurator\bin\Debug\net7.0\MessagePack.dll
+F:\vehicle_configurator\bin\Debug\net7.0\MessagePack.Annotations.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.Build.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\vehicle_configurator\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\vehicle_configurator\bin\Debug\net7.0\MySql.Data.dll
+F:\vehicle_configurator\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\vehicle_configurator\bin\Debug\net7.0\NuGet.Common.dll
+F:\vehicle_configurator\bin\Debug\net7.0\NuGet.Configuration.dll
+F:\vehicle_configurator\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+F:\vehicle_configurator\bin\Debug\net7.0\NuGet.Frameworks.dll
+F:\vehicle_configurator\bin\Debug\net7.0\NuGet.LibraryModel.dll
+F:\vehicle_configurator\bin\Debug\net7.0\NuGet.Packaging.dll
+F:\vehicle_configurator\bin\Debug\net7.0\NuGet.ProjectModel.dll
+F:\vehicle_configurator\bin\Debug\net7.0\NuGet.Protocol.dll
+F:\vehicle_configurator\bin\Debug\net7.0\NuGet.Versioning.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\vehicle_configurator\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\vehicle_configurator\bin\Debug\net7.0\System.CodeDom.dll
+F:\vehicle_configurator\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+F:\vehicle_configurator\bin\Debug\net7.0\System.Composition.Convention.dll
+F:\vehicle_configurator\bin\Debug\net7.0\System.Composition.Hosting.dll
+F:\vehicle_configurator\bin\Debug\net7.0\System.Composition.Runtime.dll
+F:\vehicle_configurator\bin\Debug\net7.0\System.Composition.TypedParts.dll
+F:\vehicle_configurator\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\vehicle_configurator\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\vehicle_configurator\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\vehicle_configurator\bin\Debug\net7.0\System.Memory.Data.dll
+F:\vehicle_configurator\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+F:\vehicle_configurator\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\vehicle_configurator\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\vehicle_configurator\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\vehicle_configurator\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ZstdSharp.dll
+F:\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\vehicle_configurator\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\vehicle_configurator\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\vehicle_configurator\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\vehicle_configurator\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\vehicle_configurator\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\vehicle_configurator\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\vehicle_configurator\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\vehicle_configurator\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+F:\vehicle_configurator\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+F:\vehicle_configurator\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+F:\vehicle_configurator\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+F:\vehicle_configurator\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+F:\vehicle_configurator\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\vehicle_configurator\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\vehicle_configurator\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\vehicle_configurator\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\vehicle_configurator\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.csproj.AssemblyReference.cache
+F:\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.GeneratedMSBuildEditorConfig.editorconfig
+F:\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.AssemblyInfoInputs.cache
+F:\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.AssemblyInfo.cs
+F:\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.csproj.CoreCompileInputs.cache
+F:\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.MvcApplicationPartsAssemblyInfo.cs
+F:\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.MvcApplicationPartsAssemblyInfo.cache
+F:\vehicle_configurator\obj\Debug\net7.0\staticwebassets\msbuild.vehicle_configurator.Microsoft.AspNetCore.StaticWebAssets.props
+F:\vehicle_configurator\obj\Debug\net7.0\staticwebassets\msbuild.build.vehicle_configurator.props
+F:\vehicle_configurator\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.vehicle_configurator.props
+F:\vehicle_configurator\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.vehicle_configurator.props
+F:\vehicle_configurator\obj\Debug\net7.0\staticwebassets.pack.json
+F:\vehicle_configurator\obj\Debug\net7.0\staticwebassets.build.json
+F:\vehicle_configurator\obj\Debug\net7.0\staticwebassets.development.json
+F:\vehicle_configurator\obj\Debug\net7.0\scopedcss\bundle\vehicle_configurator.styles.css
+F:\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.csproj.CopyComplete
+F:\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.dll
+F:\vehicle_configurator\obj\Debug\net7.0\refint\vehicle_configurator.dll
+F:\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.pdb
+F:\vehicle_configurator\obj\Debug\net7.0\vehicle_configurator.genruntimeconfig.cache
+F:\vehicle_configurator\obj\Debug\net7.0\ref\vehicle_configurator.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\appsettings.Development.json
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\appsettings.json
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\vehicle_configurator.exe
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\vehicle_configurator.deps.json
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\vehicle_configurator.runtimeconfig.json
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\vehicle_configurator.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\vehicle_configurator.pdb
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Azure.Core.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Azure.Identity.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Google.Protobuf.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Humanizer.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\MessagePack.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\MessagePack.Annotations.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.Build.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\MySql.Data.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\NuGet.Common.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\NuGet.Configuration.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\NuGet.Frameworks.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\NuGet.LibraryModel.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\NuGet.Packaging.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\NuGet.ProjectModel.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\NuGet.Protocol.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\NuGet.Versioning.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.CodeDom.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Composition.Convention.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Composition.Hosting.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Composition.Runtime.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Composition.TypedParts.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ZstdSharp.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\obj\Debug\net7.0\vehicle_configurator.csproj.AssemblyReference.cache
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\obj\Debug\net7.0\vehicle_configurator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\obj\Debug\net7.0\vehicle_configurator.AssemblyInfoInputs.cache
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\obj\Debug\net7.0\vehicle_configurator.AssemblyInfo.cs
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\obj\Debug\net7.0\vehicle_configurator.csproj.CoreCompileInputs.cache
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\obj\Debug\net7.0\vehicle_configurator.MvcApplicationPartsAssemblyInfo.cs
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\obj\Debug\net7.0\vehicle_configurator.MvcApplicationPartsAssemblyInfo.cache
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\obj\Debug\net7.0\staticwebassets\msbuild.vehicle_configurator.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\obj\Debug\net7.0\staticwebassets\msbuild.build.vehicle_configurator.props
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.vehicle_configurator.props
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.vehicle_configurator.props
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\obj\Debug\net7.0\staticwebassets.build.json
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\obj\Debug\net7.0\staticwebassets.development.json
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\obj\Debug\net7.0\scopedcss\bundle\vehicle_configurator.styles.css
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\obj\Debug\net7.0\vehicle_configurator.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\obj\Debug\net7.0\refint\vehicle_configurator.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\obj\Debug\net7.0\vehicle_configurator.pdb
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\obj\Debug\net7.0\vehicle_configurator.genruntimeconfig.cache
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\obj\Debug\net7.0\ref\vehicle_configurator.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\MailKit.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\MimeKit.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\obj\Debug\net7.0\vehicle_configurator.sourcelink.json
+F:\Vehicle Configurator\vehicle_configurator_MS.Net\obj\Debug\net7.0\vehicle_.119B93F7.Up2Date
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\appsettings.json
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\vehicle_configurator.exe
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\vehicle_configurator.deps.json
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\vehicle_configurator.runtimeconfig.json
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\vehicle_configurator.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\vehicle_configurator.pdb
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Humanizer.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\MailKit.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\MessagePack.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\MessagePack.Annotations.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\MimeKit.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\obj\Debug\net7.0\vehicle_configurator.csproj.AssemblyReference.cache
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\obj\Debug\net7.0\vehicle_configurator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\obj\Debug\net7.0\vehicle_configurator.AssemblyInfoInputs.cache
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\obj\Debug\net7.0\vehicle_configurator.AssemblyInfo.cs
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\obj\Debug\net7.0\vehicle_configurator.csproj.CoreCompileInputs.cache
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\obj\Debug\net7.0\vehicle_configurator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\obj\Debug\net7.0\vehicle_configurator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\obj\Debug\net7.0\staticwebassets\msbuild.vehicle_configurator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\obj\Debug\net7.0\staticwebassets\msbuild.build.vehicle_configurator.props
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.vehicle_configurator.props
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.vehicle_configurator.props
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\obj\Debug\net7.0\scopedcss\bundle\vehicle_configurator.styles.css
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\obj\Debug\net7.0\vehicle_configurator.csproj.CopyComplete
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\obj\Debug\net7.0\vehicle_configurator.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\obj\Debug\net7.0\refint\vehicle_configurator.dll
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\obj\Debug\net7.0\vehicle_configurator.pdb
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\obj\Debug\net7.0\vehicle_configurator.genruntimeconfig.cache
+C:\Users\rvrah\OneDrive\Documents\Vehicle_DOTNET\vehicle_configurator_MS.Net\vehicle_configurator_MS.Net\obj\Debug\net7.0\ref\vehicle_configurator.dll

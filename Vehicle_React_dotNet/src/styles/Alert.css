@@ -1,0 +1,24 @@
+.alert-modal {
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .alert-modal h2 {
+    margin-bottom: 20px;
+  }
+  
+  .alert-modal button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .alert-modal button:hover {
+    background-color: #0056b3;
+  }
